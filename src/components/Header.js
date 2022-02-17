@@ -7,8 +7,7 @@ const Header = {
 
         return `
     <div class="brand">
-        <a href="/#/"><img src="https://lumealuialice.s3.eu-central-1.amazonaws.com/Logo.png" alt="lumea lui alice"/></a>
-        
+        <a href="/#/"><img src="https://i.ibb.co/F34jkQm/Logo.png" alt="lumea lui alice"/></a>
     </div>
     
 <div class="element-design"></div>
